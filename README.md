@@ -2,10 +2,10 @@ cecd & piRemote
 ===============
 
 cecd is an init script which can be used to run the cec-client utility from the
-[libCEC][1] into a daemon to provide an IP bridge to send CEC commands over an
-HDMI interface attached to the host. A telnet session to the configured port
-will allow access to an interactive cec-client remotely. This script requires
-[libCEC][1], including the cec-client utility, and [socat][2]. Default
+[libCEC][1] project as a daemon to provide an IP bridge for sending CEC commands
+over an HDMI interface attached to the host. A telnet session to the configured
+port will allow access to an interactive cec-client remotely. This script
+requires [libCEC][1], including the cec-client utility, and [socat][2]. Default
 runlevels and command-line options for cec-client are intended for running cecd
 on a Raspberry Pi, but may be modified to run in any environment supported by
 libCEC with an attached HDMI interface, supporting CEC.
