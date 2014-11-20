@@ -8,7 +8,7 @@ port will allow access to an interactive cec-client remotely. This script
 requires [libCEC][1], including the cec-client utility, and [socat][2]. Default
 runlevels and command-line options for cec-client are intended for running cecd
 on a Raspberry Pi, but may be modified to run in any environment supported by
-libCEC with an attached HDMI interface, supporting CEC.
+libCEC with an attached CEC-capable HDMI interface.
 
 piRemote is a distribution of device codes for [Roomie Remote][3] for use with
 the Roomie Remote application and a Raspberri Pi running cecd and attached to
