@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+		<key>brand</key>
+		<string>piRemote</string>
+		<key>cat</key>
+		<string>piRemote</string>
+		<key>codes</key>
+		<dict>
+			<key>HDMI1</key>
+			<string>tx 3f:82:10:00</string>
+			<key>HDMI2</key>
+			<string>tx 3f:82:20:00</string>
+			<key>HDMI3</key>
+			<string>tx 3f:82:30:00</string>
+			<key>Off</key>
+			<string>tx 30:36</string>
+			<key>On</key>
+			<string>tx 30:04</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>21</integer>
+	</dict>
+</array>
+</plist>
