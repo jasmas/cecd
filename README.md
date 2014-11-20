@@ -12,7 +12,7 @@ libCEC with an attached CEC-capable HDMI interface.
 
 piRemote is a distribution of [Roomie Remote][3] device codes for use with the
 Roomie Remote application and a Raspberri Pi running cecd and attached to the
-HDMI interface of a TV, supporting CEC. Adding the Raspberri Pi as a piRemote
+HDMI interface of a TV supporting CEC. Adding the Raspberri Pi as a piRemote
 device in Roomie Remote will allow IP control for switching the TV on, putting
 it into standby and toggling between HDMI inputs. Instructions for adding
 custom device codes to Roomie Remote can be found [here][4].
